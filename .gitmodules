@@ -1,4 +1,4 @@
-[submodule "--force"]
+[submodule "the-blog-frontend"]
 	path = the-blog-frontend
 	url = git@github.com:Jack-samu/the-blog-frontend.git
 [submodule "the-blog-backend"]
