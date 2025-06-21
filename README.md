@@ -23,8 +23,8 @@ git submodule update --init --recursive
 ## 子仓库(监控部分还没有实现)
 | 模块       | 技术栈                          | 文档链接                         |
 |------------|---------------------------------|----------------------------------|
-| 前台       | Vite + Pinia + Element Plus    | [前端文档](./frontend/README.md) |
-| 后台       | Flask + SQLAlchemy + JWT       | [后端文档](./backend/README.md)  |
+| 前台       | Vite + Pinia + Element Plus    | [前端文档](https://github.com/Jack-samu/the-blog-frontend/blob/main/README.md) |
+| 后台       | Flask + SQLAlchemy + JWT       | [后端文档](https://github.com/Jack-samu/the-blog-backend/blob/main/README.md)  |
 | 监控运维   | Prometheus + Grafana + Docker  | [运维文档](./infra/README.md)    |
 
 ## 核心特性
